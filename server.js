@@ -7,7 +7,7 @@ const HOST = '0.0.0.0';
 
 const app = express();
 app.get('/', (req, res) => {
-  res.send('Hello world Of Azure\n');
+  res.send('Hello world Of Azure Devops\n');
 });
 
 app.listen(PORT, HOST);
