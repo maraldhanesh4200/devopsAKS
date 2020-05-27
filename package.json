@@ -1,0 +1,13 @@
+{
+  "name": "my_app",
+  "version": "1.0.0",
+  "description": "Sample used for container templates",
+
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.html"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
