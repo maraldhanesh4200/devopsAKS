@@ -2,10 +2,10 @@
   "name": "my_app",
   "version": "1.0.0",
   "description": "Sample used for container templates",
-  "author": "Shashank Barsin",
-  "main": "server.js",
+
+  "main": "index.html",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.html"
   },
   "dependencies": {
     "express": "^4.16.4"
